@@ -1,3 +1,4 @@
 Projeto voltado para a solução de exercícios envolvendo as seguintes plataformas:
-* Codewars
-* MOOC
+* [Codewars](https://www.codewars.com/)
+* [MOOC](https://java-programming.mooc.fi/)
+* [Roadmap Java](https://roadmap.sh/java)
