@@ -1,10 +1,14 @@
 import codewars.EvenOrOdd;
+import codewars.Paper;
 import mooc.AdaLovelace;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(EvenOrOdd.even_or_odd(15));
-        System.out.println(EvenOrOdd.even_or_odd(10));
-        System.out.println(AdaLovelace.print());
+        int result = Paper.paperWork(5,5);
+        System.out.println(result);
+        int resul2 = Paper.paperWork(0,0);
+        System.out.println(resul2);
+        int resul3 = Paper.paperWork(1,10);
+        System.out.println(resul3);
     }
 }
