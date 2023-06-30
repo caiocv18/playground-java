@@ -1,6 +1,6 @@
 package codewars;
 
-public class rentalCarCost {
+public class RentalCarCost {
 
     public static int rentalCarCost(int d) {
         int rentValue = 40;
