@@ -11,8 +11,14 @@ public class RemoveEveryOther {
      *
      */
     public static Object[] removeEveryOther(Object[] arr) {
-        // happy coding
-        return null;
+        int count = 0;
+        Object[] newArr = {};
+
+        return newArr;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(removeEveryOther(new String[]{"Caio", "Vinicius", "Cesar", "da", "Silva"}));
     }
 
 }
